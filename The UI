@@ -45,7 +45,7 @@ toggleUI.Text = "Launch Normal Vape UI"
 toggleUI.TextColor3 = Color3.fromRGB(0, 0, 0)
 toggleUI.TextSize = 20.000
 toggleUI.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Spencer59/scripyv2/main/Normal%20Vape%20UI", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end)
 
 exitUI.Name = "exit UI"
@@ -82,7 +82,7 @@ toggleUI2.Text = "Launch Normal Rise UI"
 toggleUI2.TextColor3 = Color3.fromRGB(0, 0, 0)
 toggleUI2.TextSize = 20.000
 toggleUI2.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Spencer59/scripyv2/main/Normal%20Rise%20UI", true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/Spencer59/scripyv2/main/Normal%20Rise%20UI'))()
 end)
 
 toggleUI3.Name = "toggle UI3"
@@ -95,7 +95,7 @@ toggleUI3.Text = "Launch Modded Rise UI"
 toggleUI3.TextColor3 = Color3.fromRGB(0, 0, 0)
 toggleUI3.TextSize = 20.000
 toggleUI3.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Spencer59/scripyv2/main/Modded%20Rise%20UI", true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/Spencer59/scripyv2/main/Modded%20Rise%20UI'))()
 end)
 
 OPEN.Name = "OPEN"
