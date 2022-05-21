@@ -37,6 +37,10 @@ local risethemes = {
         TextGUIColor1 = Color3.fromRGB(0, 0, 255),
         TextGUIColor2 = Color3.fromRGB(0, 0, 255),
     },
+    ["Rise 4.0"] = {
+        TextGUIColor1 = Color3.fromRGB(251, 255, 0),
+        TextGUIColor2 = Color3.fromRGB(251, 255, 0),
+    },
 }
 
 if isfolder("rise") == false then
